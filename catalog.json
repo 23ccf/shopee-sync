@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-12T08:16:56.359Z",
-  "captured_at": "2026-08-12T08:16:56.359Z",
-  "catalog_ts": 1786522616,
+  "generated_at": "2026-08-12T10:02:38.243Z",
+  "captured_at": "2026-08-12T10:02:38.243Z",
+  "catalog_ts": 1786528958,
   "source": "kjws",
-  "total": 1050,
+  "total": 1057,
   "categories": [
     {
       "name": "浏览",
@@ -31109,7 +31109,7 @@
       "id": "1566229659-40410219184",
       "img": "https://down-tw.img.susercontent.com/file/cn-11134207-7ras8-mdeugtr2kkeh8b",
       "itemid": 40410219184,
-      "last_seen": 1786522549,
+      "last_seen": 1786528924,
       "liked": 0,
       "month_sold": 0,
       "name": "下杀🔥HOOMEY 水杯 保溫瓶 保溫桶 1500ML大容量水壺 冰霸杯大水杯 保冷杯 隨行杯 水瓶 茶水分離雙飲杯",
@@ -31395,7 +31395,7 @@
       "id": "1022025870-26310402845",
       "img": "https://down-tw.img.susercontent.com/file/sg-11134201-7rdvd-lzu9m7s8bdcy98",
       "itemid": 26310402845,
-      "last_seen": 1786522599,
+      "last_seen": 1786528922,
       "liked": 0,
       "month_sold": 0,
       "name": "【台灣現貨速發💥】漸變色鯊魚拖鞋二代踩屎款 4CM厚底EVA拖鞋 可愛女生拖鞋 夏季出街涼鞋 情侶拖鞋 拖鞋男 防滑防臭",
@@ -31405,7 +31405,7 @@
       "sold": 1000,
       "sold_total": 1000,
       "tags": [
-        "每日新发现"
+        "浏览"
       ],
       "total_sold": 1000,
       "url": "https://shopee.tw/product/1022025870/26310402845",
@@ -31959,6 +31959,160 @@
       ],
       "total_sold": 283,
       "url": "https://shopee.tw/product/7714821/57406777158",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786528921,
+      "id": "4786991-46250372781",
+      "img": "https://down-tw.img.susercontent.com/file/sg-11134201-8258k-mgevj2a40bv1c4",
+      "itemid": 46250372781,
+      "last_seen": 1786528921,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "【隔日達🔥免運】健身雙飲杯 運動水杯 保溫杯 1500ML大容量水杯 48H保溫保冷 316不鏽鋼 保冷杯 保溫瓶 水壺",
+      "price": 369,
+      "rating": 0,
+      "shopid": 4786991,
+      "sold": 115,
+      "sold_total": 115,
+      "tags": [
+        "浏览"
+      ],
+      "total_sold": 115,
+      "url": "https://shopee.tw/product/4786991/46250372781",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786528922,
+      "id": "50124363-54503022032",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134201-81ztc-mi6zl6g548aq9b",
+      "itemid": 54503022032,
+      "last_seen": 1786528922,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "💖全館現貨+隔日到店💖 彈蓋水壺trita 搖搖杯 大容量tritan水壺n 運動水壺 耐高溫帶吸管夏天健身戶外便攜水壺",
+      "price": 333,
+      "rating": 0,
+      "shopid": 50124363,
+      "sold": 23,
+      "sold_total": 23,
+      "tags": [
+        "浏览"
+      ],
+      "total_sold": 23,
+      "url": "https://shopee.tw/product/50124363/54503022032",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786528921,
+      "id": "519657943-48461627280",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820l4-mp155jiq6knjca",
+      "itemid": 48461627280,
+      "last_seen": 1786528921,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "[隔日到/發票 喝水+噴霧/瞬間皮膚降溫]噴霧水壺 吸管水壺 水瓶 雙飲水壺",
+      "price": 288,
+      "rating": 0,
+      "shopid": 519657943,
+      "sold": 23,
+      "sold_total": 23,
+      "tags": [
+        "浏览"
+      ],
+      "total_sold": 23,
+      "url": "https://shopee.tw/product/519657943/48461627280",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786528922,
+      "id": "640074040-25987838490",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820l4-mq35k95palfwce",
+      "itemid": 25987838490,
+      "last_seen": 1786528922,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "🔥【24h現貨】🔥機械鍵盤 電腦鍵盤 電競鍵盤 台灣注音鍵盤 复古朋克 真機械鍵盤 發光鍵盤 BSMI：D46248",
+      "price": 919,
+      "rating": 0,
+      "shopid": 640074040,
+      "sold": 1000,
+      "sold_total": 1000,
+      "tags": [
+        "浏览"
+      ],
+      "total_sold": 1000,
+      "url": "https://shopee.tw/product/640074040/25987838490",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786528924,
+      "id": "641232087-53461518757",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820le-moz5qad3lzwv38",
+      "itemid": 53461518757,
+      "last_seen": 1786528924,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "【日本櫻花限定款】LHHW 搖搖杯 運動水壺 運動搖搖杯 蛋白粉 健身搖搖杯 奶昔搖搖杯 乳清搖搖杯 高蛋白搖搖杯",
+      "price": 399,
+      "rating": 0,
+      "shopid": 641232087,
+      "sold": 30,
+      "sold_total": 30,
+      "tags": [
+        "浏览"
+      ],
+      "total_sold": 30,
+      "url": "https://shopee.tw/product/641232087/53461518757",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786528923,
+      "id": "647630190-41417116319",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-81ztm-mfumrrgvdtzf7b",
+      "itemid": 41417116319,
+      "last_seen": 1786528923,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "無線鍵盤滑鼠 無線鍵鼠組 無線滑鼠鍵盤組 無線滑鼠 無線鍵盤 USB接收器 注音倉頡 CyberSLIM",
+      "price": 299,
+      "rating": 0,
+      "shopid": 647630190,
+      "sold": 2000,
+      "sold_total": 2000,
+      "tags": [
+        "浏览"
+      ],
+      "total_sold": 2000,
+      "url": "https://shopee.tw/product/647630190/41417116319",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786528922,
+      "id": "979398001-42555504749",
+      "img": "https://down-tw.img.susercontent.com/file/cn-11134207-820l4-me7wyibp0w743b",
+      "itemid": 42555504749,
+      "last_seen": 1786528922,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "HOMEEY  保温瓶  1500ML大容量冰霸杯 保冷杯 茶水分離隨行杯 | 一鍵開蓋 便提設計  運動健身噸噸桶",
+      "price": 734,
+      "rating": 0,
+      "shopid": 979398001,
+      "sold": 497,
+      "sold_total": 497,
+      "tags": [
+        "浏览"
+      ],
+      "total_sold": 497,
+      "url": "https://shopee.tw/product/979398001/42555504749",
       "week_sold": 0
     }
   ]
