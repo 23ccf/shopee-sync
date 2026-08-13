@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-13T08:36:53.885Z",
-  "captured_at": "2026-08-13T08:36:53.885Z",
-  "catalog_ts": 1786610213,
+  "generated_at": "2026-08-13T08:37:54.329Z",
+  "captured_at": "2026-08-13T08:37:54.329Z",
+  "catalog_ts": 1786610274,
   "source": "kjws",
-  "total": 1328,
+  "total": 1333,
   "categories": [
     {
       "name": "浏览",
@@ -22220,17 +22220,17 @@
     },
     {
       "cats": [],
-      "first_seen": "2026-08-12T08:02:28.964Z",
+      "first_seen": null,
       "id": "1443249372-54909424436",
       "img": "https://down-tw.img.susercontent.com/file/sg-11134201-820lz-mnfl4vqtlclc69",
       "itemid": 54909424436,
-      "last_seen": "2026-08-12T08:02:28.964Z",
+      "last_seen": null,
       "liked": 0,
       "month_sold": 83,
       "name": "台灣現貨 陶瓷內膽的保溫杯 316不銹鋼 大容量 車載水杯 帶手柄便攜保溫杯 保冷杯 冰霸杯 大容量水壺 啤酒馬克杯",
       "rating": 0,
       "shopid": 1443249372,
-      "sold": 1000,
+      "sold": 83,
       "sold_total": 1000,
       "tags": [
         "每日新发现"
@@ -22238,7 +22238,8 @@
       "total_sold": 1000,
       "url": "https://shopee.tw/product/1443249372/54909424436",
       "week_sold": 19,
-      "month_sold_estimated": true
+      "month_sold_estimated": true,
+      "price": 190
     },
     {
       "id": "1405005875_53253228581",
@@ -27854,16 +27855,16 @@
       "id": "1479958426-26930681308",
       "img": "https://down-tw.img.susercontent.com/file/sg-11134201-7rd5z-m7qcbehawl3b53",
       "itemid": 26930681308,
-      "last_seen": 1786604395,
+      "last_seen": 1786610226,
       "liked": 0,
       "month_sold": 40,
       "name": "【✨台灣現貨】星空漸變鯊魚拖鞋 鯊魚拖鞋漸變款 男士夏季外穿拖鞋 室內拖鞋 居家防臭拖鞋 防滑情侶涼拖女 軟底EVA拖鞋",
       "rating": 0,
       "shopid": 1479958426,
-      "sold": 481,
+      "sold": 40,
       "sold_total": 481,
       "tags": [
-        "浏览"
+        "每日新发现"
       ],
       "total_sold": 481,
       "url": "https://shopee.tw/product/1479958426/26930681308",
@@ -30842,23 +30843,23 @@
     },
     {
       "cats": [],
-      "first_seen": "2026-08-12T08:03:51.965Z",
+      "first_seen": null,
       "id": "707688232-52461459080",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820l4-mqikfkcs3sp856",
       "itemid": 52461459080,
-      "last_seen": "2026-08-12T08:03:51.965Z",
+      "last_seen": null,
       "liked": 0,
       "month_sold": 9,
       "name": "🔥現貨隔日達🔥4000ML保冰杯 巨無霸冰霸杯 304不鏽鋼保溫杯 大容量水壺 保溫桶 保溫瓶 隨行杯 水杯 吸管直飲杯",
       "price": 10,
       "rating": 0,
       "shopid": 707688232,
-      "sold": 103,
-      "sold_total": 103,
+      "sold": 9,
+      "sold_total": 105,
       "tags": [
         "每日新发现"
       ],
-      "total_sold": 103,
+      "total_sold": 105,
       "url": "https://shopee.tw/product/707688232/52461459080",
       "week_sold": 2,
       "month_sold_estimated": true
@@ -31997,17 +31998,17 @@
       "id": "170205474-49009479985",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134201-820l9-mngww90w4ni9a7",
       "itemid": 49009479985,
-      "last_seen": 1786522549,
+      "last_seen": 1786610226,
       "liked": 0,
       "month_sold": 6,
       "name": "🎉扒胎龍鉗真空胎手動拆卸剝離夾壓輪胎器電動車摩托車三輪維修工具-順益百貨商城",
       "price": 230,
       "rating": 0,
       "shopid": 170205474,
-      "sold": 73,
+      "sold": 6,
       "sold_total": 73,
       "tags": [
-        "浏览"
+        "每日新发现"
       ],
       "total_sold": 73,
       "url": "https://shopee.tw/product/170205474/49009479985",
@@ -33146,17 +33147,17 @@
       "id": "1137867597-54209675789",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820l7-mqynpsmkveo145",
       "itemid": 54209675789,
-      "last_seen": 1786604395,
+      "last_seen": 1786610226,
       "liked": 0,
       "month_sold": 83,
       "name": "現貨🚀線控麥克風有線耳機 HiFi無損音質 3.5mm圓孔 手機耳機 運動 降噪 電競 低延遲 耳機 耳麥 麥克風耳機",
       "price": 198,
       "rating": 0,
       "shopid": 1137867597,
-      "sold": 1000,
+      "sold": 83,
       "sold_total": 1000,
       "tags": [
-        "浏览"
+        "每日新发现"
       ],
       "total_sold": 1000,
       "url": "https://shopee.tw/product/1137867597/54209675789",
@@ -33421,14 +33422,14 @@
       "id": "1622478893-46811855617",
       "img": "https://down-tw.img.susercontent.com/file/sg-11134201-823o8-mp7kmssargujf4",
       "itemid": 46811855617,
-      "last_seen": 1786592954,
+      "last_seen": 1786610226,
       "liked": 0,
       "month_sold": 12,
       "name": "隔日🚚 陶瓷保溫杯 大容量保溫瓶1250ML 手提保溫杯 陶瓷保溫瓶 陶瓷冰霸杯 陶瓷咖啡杯 保溫杯 保溫瓶 水壺",
       "price": 1,
       "rating": 0,
       "shopid": 1622478893,
-      "sold": 149,
+      "sold": 12,
       "sold_total": 149,
       "tags": [
         "每日新发现"
@@ -34474,21 +34475,21 @@
       "cats": [],
       "first_seen": 1786588713,
       "id": "7734282-26394918175",
-      "img": "https://down-tw.img.susercontent.com/file/sg-11134201-823pr-morog6ptzmypf2",
+      "img": "https://down-tw.img.susercontent.com/file/sg-11134201-823ro-moqiqsgq09353d",
       "itemid": 26394918175,
-      "last_seen": 1786588713,
+      "last_seen": 1786610226,
       "liked": 0,
       "month_sold": 71,
       "name": "🔥桃園现貨💜免運醫護足弓支撐 洞洞鞋男 2026新款 夏季外穿 防滑沙灘 防臭厚底 溯溪鞋 布希鞋 涉水鞋  耐磨涼拖鞋",
       "price": 271,
       "rating": 0,
       "shopid": 7734282,
-      "sold": 849,
-      "sold_total": 849,
+      "sold": 71,
+      "sold_total": 852,
       "tags": [
         "每日新发现"
       ],
-      "total_sold": 849,
+      "total_sold": 852,
       "url": "https://shopee.tw/product/7734282/26394918175",
       "week_sold": 16,
       "month_sold_estimated": true
@@ -34752,14 +34753,14 @@
       "id": "12346-11836600105",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk5-m8fnzlivb6cn0a",
       "itemid": 11836600105,
-      "last_seen": 1786592922,
+      "last_seen": 1786610226,
       "liked": 0,
       "month_sold": 83,
       "name": "【９９元就免運！藍白漸層熱銷色限時促銷】水壺 2000ml 1500ml 水壺 運動水壺 大容量水壺 健身水壺 彈蓋水壺",
       "price": 154,
       "rating": 0,
       "shopid": 12346,
-      "sold": 1000,
+      "sold": 83,
       "sold_total": 1000,
       "tags": [
         "每日新发现"
@@ -35141,14 +35142,14 @@
       "id": "588444617-48357820424",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820la-mliw2o1dbjf35a",
       "itemid": 48357820424,
-      "last_seen": 1786592945,
+      "last_seen": 1786610226,
       "liked": 0,
       "month_sold": 19,
       "name": "台中現貨🔥熱銷中 限時下殺 電動攪拌杯 700ML 高效充分攪拌 高蛋白攪拌杯 奶昔攪拌杯 攪拌杯電動 蛋白杯 攪拌杯",
       "price": 371,
       "rating": 0,
       "shopid": 588444617,
-      "sold": 222,
+      "sold": 19,
       "sold_total": 222,
       "tags": [
         "每日新发现"
@@ -35348,7 +35349,7 @@
       "id": "14815764-22634601163",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134207-7qukx-ler8p4f32tdb99",
       "itemid": 22634601163,
-      "last_seen": 1786604448,
+      "last_seen": 1786610226,
       "liked": 0,
       "month_sold": 417,
       "month_sold_estimated": true,
@@ -35356,7 +35357,7 @@
       "price": 219,
       "rating": 0,
       "shopid": 14815764,
-      "sold": 5000,
+      "sold": 417,
       "sold_total": 5000,
       "tags": [
         "每日新发现"
@@ -35739,7 +35740,7 @@
       "id": "268455859-45009562093",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820lf-mnji0wws2nlu3c",
       "itemid": 45009562093,
-      "last_seen": 1786591684,
+      "last_seen": 1786610226,
       "liked": 0,
       "month_sold": 16,
       "month_sold_estimated": true,
@@ -35747,7 +35748,7 @@
       "price": 149,
       "rating": 0,
       "shopid": 268455859,
-      "sold": 197,
+      "sold": 16,
       "sold_total": 197,
       "tags": [
         "每日新发现"
@@ -36498,7 +36499,7 @@
       "id": "1718094496-47512362926",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820lh-mpk9cc1fmrkeb3",
       "itemid": 47512362926,
-      "last_seen": 1786592914,
+      "last_seen": 1786610226,
       "liked": 0,
       "month_sold": 4,
       "month_sold_estimated": true,
@@ -36506,7 +36507,7 @@
       "price": 156,
       "rating": 0,
       "shopid": 1718094496,
-      "sold": 49,
+      "sold": 4,
       "sold_total": 49,
       "tags": [
         "每日新发现"
@@ -37326,7 +37327,7 @@
       "id": "1423827491-28436006712",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk1-m9dhrena648673",
       "itemid": 28436006712,
-      "last_seen": 1786592945,
+      "last_seen": 1786610226,
       "liked": 0,
       "month_sold": 83,
       "month_sold_estimated": true,
@@ -37334,7 +37335,7 @@
       "price": 125,
       "rating": 0,
       "shopid": 1423827491,
-      "sold": 1000,
+      "sold": 83,
       "sold_total": 1000,
       "tags": [
         "每日新发现"
@@ -38384,7 +38385,7 @@
       "id": "1443249372-46109373221",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820l8-mo58oonx71fl2d",
       "itemid": 46109373221,
-      "last_seen": 1786604448,
+      "last_seen": 1786610226,
       "liked": 0,
       "month_sold": 3,
       "month_sold_estimated": true,
@@ -38392,7 +38393,7 @@
       "price": 160,
       "rating": 0,
       "shopid": 1443249372,
-      "sold": 31,
+      "sold": 3,
       "sold_total": 31,
       "tags": [
         "每日新发现"
@@ -38407,7 +38408,7 @@
       "id": "1521573380-42958983472",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0t-mcbwy3ru32wh3d",
       "itemid": 42958983472,
-      "last_seen": 1786604448,
+      "last_seen": 1786610226,
       "liked": 0,
       "month_sold": 83,
       "month_sold_estimated": true,
@@ -38415,7 +38416,7 @@
       "price": 148,
       "rating": 0,
       "shopid": 1521573380,
-      "sold": 1000,
+      "sold": 83,
       "sold_total": 1000,
       "tags": [
         "每日新发现"
@@ -38683,7 +38684,7 @@
       "id": "457967607-28182361383",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk6-m8a7pcct2z8n5d",
       "itemid": 28182361383,
-      "last_seen": 1786604448,
+      "last_seen": 1786610226,
       "liked": 0,
       "month_sold": 71,
       "month_sold_estimated": true,
@@ -38691,7 +38692,7 @@
       "price": 149,
       "rating": 0,
       "shopid": 457967607,
-      "sold": 846,
+      "sold": 71,
       "sold_total": 846,
       "tags": [
         "每日新发现"
@@ -38729,7 +38730,7 @@
       "id": "609036070-23082311146",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820l8-mrqpz24gomiod2",
       "itemid": 23082311146,
-      "last_seen": 1786604448,
+      "last_seen": 1786610226,
       "liked": 0,
       "month_sold": 167,
       "month_sold_estimated": true,
@@ -38737,7 +38738,7 @@
       "price": 129,
       "rating": 0,
       "shopid": 609036070,
-      "sold": 2000,
+      "sold": 167,
       "sold_total": 2000,
       "tags": [
         "每日新发现"
@@ -38752,7 +38753,7 @@
       "id": "651638948-24444009867",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk7-m8kablg7lh9c7d",
       "itemid": 24444009867,
-      "last_seen": 1786604448,
+      "last_seen": 1786610226,
       "liked": 0,
       "month_sold": 167,
       "month_sold_estimated": true,
@@ -38760,7 +38761,7 @@
       "price": 128,
       "rating": 0,
       "shopid": 651638948,
-      "sold": 2000,
+      "sold": 167,
       "sold_total": 2000,
       "tags": [
         "每日新发现"
@@ -38798,7 +38799,7 @@
       "id": "849563788-29554999734",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-lxjwl4rnm4a8a9",
       "itemid": 29554999734,
-      "last_seen": 1786604448,
+      "last_seen": 1786610226,
       "liked": 0,
       "month_sold": 83,
       "month_sold_estimated": true,
@@ -38806,7 +38807,7 @@
       "price": 159,
       "rating": 0,
       "shopid": 849563788,
-      "sold": 1000,
+      "sold": 83,
       "sold_total": 1000,
       "tags": [
         "每日新发现"
@@ -39251,6 +39252,121 @@
       "total_sold": 219,
       "url": "https://shopee.tw/product/9886315/27828207328",
       "week_sold": 4
+    },
+    {
+      "cats": [],
+      "first_seen": 1786610226,
+      "id": "1022025870-24182368454",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134211-7r98p-lz5nm9uurw1g98",
+      "itemid": 24182368454,
+      "last_seen": 1786610226,
+      "liked": 0,
+      "month_sold": 45,
+      "month_sold_estimated": true,
+      "name": "【限時特價💥】820A朋克機械鍵盤 104鍵青軸鍵盤 帶多功能旋鈕 注音鍵盤 發光遊戲電競鍵盤 有線鍵盤 復古朋克鍵盤",
+      "price": 929,
+      "rating": 0,
+      "shopid": 1022025870,
+      "sold": 45,
+      "sold_total": 541,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 541,
+      "url": "https://shopee.tw/product/1022025870/24182368454",
+      "week_sold": 10
+    },
+    {
+      "cats": [],
+      "first_seen": 1786610226,
+      "id": "139229644-19374595246",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-23020-c5erncosc2nv70",
+      "itemid": 19374595246,
+      "last_seen": 1786610226,
+      "liked": 0,
+      "month_sold": 83,
+      "month_sold_estimated": true,
+      "name": "新款現貨 tritan大容量幻影-星空彈蓋杯 彩色透明運動水壺 戶外便攜水壺 防摔塑膠健身水杯 學生彈蓋水壺 太空杯水壺",
+      "price": 229,
+      "rating": 0,
+      "shopid": 139229644,
+      "sold": 83,
+      "sold_total": 1000,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 1000,
+      "url": "https://shopee.tw/product/139229644/19374595246",
+      "week_sold": 19
+    },
+    {
+      "cats": [],
+      "first_seen": 1786610226,
+      "id": "1622478893-57051707104",
+      "img": "https://down-tw.img.susercontent.com/file/sg-11134201-821eh-mh8skiglww7d52",
+      "itemid": 57051707104,
+      "last_seen": 1786610226,
+      "liked": 0,
+      "month_sold": 15,
+      "month_sold_estimated": true,
+      "name": "隔日🚚 陶瓷保溫杯 陶瓷咖啡杯 陶瓷保溫瓶 大容量保溫杯 1000ML 保溫瓶 隨行杯 咖啡杯 保冰 環保杯 陶瓷咖啡杯",
+      "price": 1,
+      "rating": 0,
+      "shopid": 1622478893,
+      "sold": 15,
+      "sold_total": 182,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 182,
+      "url": "https://shopee.tw/product/1622478893/57051707104",
+      "week_sold": 3
+    },
+    {
+      "cats": [],
+      "first_seen": 1786610226,
+      "id": "515686-26631011370",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134201-7rbk3-m7ue4hr86h623f",
+      "itemid": 26631011370,
+      "last_seen": 1786610226,
+      "liked": 0,
+      "month_sold": 4,
+      "month_sold_estimated": true,
+      "name": "【大容量水壺】運動健身水杯 直飲式冷水壺 便攜耐高溫杯子 帶吸管戶外水壺 水壺 冷水壺 1500ml 2000ml 吸管",
+      "price": 128,
+      "rating": 0,
+      "shopid": 515686,
+      "sold": 4,
+      "sold_total": 49,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 49,
+      "url": "https://shopee.tw/product/515686/26631011370",
+      "week_sold": 1
+    },
+    {
+      "cats": [],
+      "first_seen": 1786610226,
+      "id": "946684695-44111572598",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-81zte-me8dpxrun7k542",
+      "itemid": 44111572598,
+      "last_seen": 1786610226,
+      "liked": 0,
+      "month_sold": 64,
+      "month_sold_estimated": true,
+      "name": "💗現貨隔日達💗 保冰瓶 保冷杯 保溫瓶 316不銹鋼保溫瓶 保溫壺 大容量保溫杯 大容量水壺 戶外保溫杯 2000毫升",
+      "price": 399,
+      "rating": 0,
+      "shopid": 946684695,
+      "sold": 64,
+      "sold_total": 769,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 769,
+      "url": "https://shopee.tw/product/946684695/44111572598",
+      "week_sold": 15
     }
   ]
 }
