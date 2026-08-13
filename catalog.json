@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-13T02:38:43.083Z",
-  "captured_at": "2026-08-13T02:38:43.083Z",
-  "catalog_ts": 1786588723,
+  "generated_at": "2026-08-13T02:38:56.165Z",
+  "captured_at": "2026-08-13T02:38:56.165Z",
+  "catalog_ts": 1786588736,
   "source": "kjws",
-  "total": 1131,
+  "total": 1156,
   "categories": [
     {
       "name": "浏览",
@@ -13236,16 +13236,16 @@
       "first_seen": 1786416262
     },
     {
-      "id": "122850634_40727717565",
+      "id": "122850634-40727717565",
       "itemid": 40727717565,
       "shopid": 122850634,
       "name": "隔日🚚 陶瓷保溫瓶 陶瓷保溫杯 陶瓷冰霸杯 保溫杯 保溫瓶 陶瓷咖啡杯 陶瓷隨行杯 咖啡杯 水壺 水瓶 彈蓋保溫杯 陶瓷",
-      "price": 185,
-      "sold": 1000,
-      "sold_total": 7000,
+      "price": 1,
+      "sold": 8000,
+      "sold_total": 8000,
       "month_sold": 1000,
       "week_sold": 230,
-      "total_sold": 7000,
+      "total_sold": 8000,
       "rating": 4.93,
       "reviews": 4437,
       "liked": 8261,
@@ -13255,18 +13255,20 @@
       "loc": "彰化縣埔鹽鄉",
       "brand": "",
       "official": false,
-      "img": "https://cf.shopee.tw/file/tw-11134207-820lb-mrlb0vmf96h404",
+      "img": "https://down-tw.img.susercontent.com/file/sg-11134201-81zwb-mj105xha0pombd",
       "url": "https://shopee.tw/product/122850634/40727717565",
-      "cats": [
-        "260620JUBVEVJT"
-      ],
+      "cats": [],
       "main_sku": {
         "name": null,
         "price": null
       },
       "tiers": [],
       "listed_at": 1786416262,
-      "first_seen": 1786416262
+      "first_seen": 1786416262,
+      "last_seen": 1786588733,
+      "tags": [
+        "每日新发现"
+      ]
     },
     {
       "id": "244636887_27181826609",
@@ -22975,16 +22977,16 @@
       "first_seen": 1786416262
     },
     {
-      "id": "51674874_28992955059",
+      "id": "51674874-28992955059",
       "itemid": 28992955059,
       "shopid": 51674874,
       "name": "[台灣發貨]大容量 1200ml 陶瓷內膽 雙飲杯 冰霸杯 保溫杯 吸管杯 運動水壺 長效保溫保冷車載水杯 #BD887",
-      "price": 245,
-      "sold": 63,
-      "sold_total": 460,
+      "price": 238,
+      "sold": 470,
+      "sold_total": 470,
       "month_sold": 63,
       "week_sold": 14,
-      "total_sold": 460,
+      "total_sold": 470,
       "rating": 4.91,
       "reviews": 245,
       "liked": 195,
@@ -22994,18 +22996,20 @@
       "loc": "新北市中和區",
       "brand": "",
       "official": false,
-      "img": "https://cf.shopee.tw/file/sg-11134201-8258v-mfumafx0ycjt27",
+      "img": "https://down-tw.img.susercontent.com/file/sg-11134201-825aw-mfumahvbx8gadc",
       "url": "https://shopee.tw/product/51674874/28992955059",
-      "cats": [
-        "浏览"
-      ],
+      "cats": [],
       "main_sku": {
         "name": null,
         "price": null
       },
       "tiers": [],
       "listed_at": 1786416262,
-      "first_seen": 1786416262
+      "first_seen": 1786416262,
+      "last_seen": 1786588733,
+      "tags": [
+        "每日新发现"
+      ]
     },
     {
       "id": "1664033428_28044148631",
@@ -24650,16 +24654,16 @@
       "first_seen": 1786416262
     },
     {
-      "id": "1283116410_53762718855",
+      "id": "1283116410-53762718855",
       "itemid": 53762718855,
       "shopid": 1283116410,
       "name": "隔日🚚 陶瓷保溫瓶 陶瓷保溫杯 陶瓷冰霸杯 保溫杯 保溫瓶 陶瓷咖啡杯 陶瓷隨行杯 咖啡杯 水壺 水瓶 彈蓋保溫杯 陶瓷",
-      "price": 113,
-      "sold": 79,
-      "sold_total": 83,
+      "price": 109,
+      "sold": 95,
+      "sold_total": 95,
       "month_sold": 79,
       "week_sold": 18,
-      "total_sold": 83,
+      "total_sold": 95,
       "rating": 4.78,
       "reviews": 40,
       "liked": 34,
@@ -24669,18 +24673,20 @@
       "loc": "高雄市大寮區",
       "brand": "",
       "official": false,
-      "img": "https://cf.shopee.tw/file/tw-11134207-820le-mpuo1zhw0t8i55",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820le-mpuo1zhw0t8i55",
       "url": "https://shopee.tw/product/1283116410/53762718855",
-      "cats": [
-        "浏览"
-      ],
+      "cats": [],
       "main_sku": {
         "name": null,
         "price": null
       },
       "tiers": [],
       "listed_at": 1786416262,
-      "first_seen": 1786416262
+      "first_seen": 1786416262,
+      "last_seen": 1786588733,
+      "tags": [
+        "每日新发现"
+      ]
     },
     {
       "id": "67932012_48207235588",
@@ -27136,11 +27142,11 @@
     },
     {
       "cats": [],
-      "first_seen": "2026-08-12T08:02:37.064Z",
+      "first_seen": null,
       "id": "14072955-44282392996",
       "img": "https://down-tw.img.susercontent.com/file/sg-11134201-82590-mqejaza2lzb5f1",
       "itemid": 44282392996,
-      "last_seen": "2026-08-12T08:02:37.064Z",
+      "last_seen": null,
       "liked": 0,
       "month_sold": 0,
       "name": "🎈星空鯊魚拖鞋 三代4cm陞級款 室內拖鞋 踩屎鞋 厚底拖鞋 懶人拖鞋 浴室拖鞋 可愛造型拖鞋 防水止滑拖鞋 情侶拖鞋",
@@ -27153,7 +27159,8 @@
       ],
       "total_sold": 1,
       "url": "https://shopee.tw/product/14072955/44282392996",
-      "week_sold": 0
+      "week_sold": 0,
+      "price": 242
     },
     {
       "cats": [],
@@ -27220,11 +27227,11 @@
     },
     {
       "cats": [],
-      "first_seen": "2026-08-12T08:02:43.547Z",
+      "first_seen": null,
       "id": "1479958426-26930681308",
       "img": "https://down-tw.img.susercontent.com/file/sg-11134201-7rd5z-m7qcbehawl3b53",
       "itemid": 26930681308,
-      "last_seen": "2026-08-12T08:02:43.547Z",
+      "last_seen": null,
       "liked": 0,
       "month_sold": 0,
       "name": "【✨台灣現貨】星空漸變鯊魚拖鞋 鯊魚拖鞋漸變款 男士夏季外穿拖鞋 室內拖鞋 居家防臭拖鞋 防滑情侶涼拖女 軟底EVA拖鞋",
@@ -27237,7 +27244,8 @@
       ],
       "total_sold": 481,
       "url": "https://shopee.tw/product/1479958426/26930681308",
-      "week_sold": 0
+      "week_sold": 0,
+      "price": 189
     },
     {
       "cats": [],
@@ -27262,24 +27270,25 @@
     },
     {
       "cats": [],
-      "first_seen": "2026-08-12T08:02:28.964Z",
+      "first_seen": null,
       "id": "15409919-48506737539",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820l7-mlej0bu0s83pfe",
       "itemid": 48506737539,
-      "last_seen": "2026-08-12T08:02:28.964Z",
+      "last_seen": null,
       "liked": 0,
       "month_sold": 0,
       "name": "🌜GOGO甄選🌛保冰桶4000ml保溫瓶 不鏽鋼保冰杯 不鏽鋼保溫瓶 保冰桶 保溫瓶2000ml 冰霸杯",
       "rating": 0,
       "shopid": 15409919,
-      "sold": 216,
-      "sold_total": 216,
+      "sold": 220,
+      "sold_total": 220,
       "tags": [
         "每日新发现"
       ],
-      "total_sold": 216,
+      "total_sold": 220,
       "url": "https://shopee.tw/product/15409919/48506737539",
-      "week_sold": 0
+      "week_sold": 0,
+      "price": 298
     },
     {
       "cats": [],
@@ -27433,24 +27442,25 @@
     },
     {
       "cats": [],
-      "first_seen": "2026-08-12T08:02:28.964Z",
+      "first_seen": null,
       "id": "1735385992-47562280309",
       "img": "https://down-tw.img.susercontent.com/file/sg-11134201-824jg-mphsvjivcqgw68",
       "itemid": 47562280309,
-      "last_seen": "2026-08-12T08:02:28.964Z",
+      "last_seen": null,
       "liked": 0,
       "month_sold": 0,
       "name": "❤️【台灣出貨】❤️710ML不鏽鋼吸管保溫杯 陶瓷塗層內膽 冰壩杯長效保冰保溫 車載手提掛繩隨行杯 辦公露營大容量水杯",
       "rating": 0,
       "shopid": 1735385992,
-      "sold": 8,
-      "sold_total": 8,
+      "sold": 9,
+      "sold_total": 9,
       "tags": [
         "每日新发现"
       ],
-      "total_sold": 8,
+      "total_sold": 9,
       "url": "https://shopee.tw/product/1735385992/47562280309",
-      "week_sold": 0
+      "week_sold": 0,
+      "price": 288
     },
     {
       "cats": [],
@@ -28269,11 +28279,11 @@
     },
     {
       "cats": [],
-      "first_seen": "2026-08-12T08:02:43.547Z",
+      "first_seen": null,
       "id": "36914284-46459549585",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820lc-moqm1711fk01dd",
       "itemid": 46459549585,
-      "last_seen": 1786522549,
+      "last_seen": 1786588733,
       "liked": 0,
       "month_sold": 0,
       "name": "〖台灣現貨〗運動水壺 tritan 大容量水壺 健身水壺 登山水壺 耐熱水壺 學生水壺 防漏水杯 透明水壺 噸噸杯 水杯",
@@ -28283,7 +28293,7 @@
       "sold": 132,
       "sold_total": 132,
       "tags": [
-        "浏览"
+        "每日新发现"
       ],
       "total_sold": 132,
       "url": "https://shopee.tw/product/36914284/46459549585",
@@ -29534,11 +29544,11 @@
     },
     {
       "cats": [],
-      "first_seen": "2026-08-12T08:03:51.965Z",
+      "first_seen": null,
       "id": "1313580216-51001779627",
       "img": "https://down-tw.img.susercontent.com/file/sg-11134201-825zw-mmb46omszj7l0a",
       "itemid": 51001779627,
-      "last_seen": "2026-08-12T08:03:51.965Z",
+      "last_seen": null,
       "liked": 0,
       "month_sold": 0,
       "name": "800ML/1000ML 便攜大容量316不鏽鋼保溫杯  彈蓋直飲吸管保溫杯 男女生學生水壺不鏽鋼運動水杯吸管杯子",
@@ -29551,7 +29561,8 @@
       ],
       "total_sold": 111,
       "url": "https://shopee.tw/product/1313580216/51001779627",
-      "week_sold": 0
+      "week_sold": 0,
+      "price": 405
     },
     {
       "cats": [],
@@ -29833,23 +29844,23 @@
     },
     {
       "cats": [],
-      "first_seen": "2026-08-12T08:03:51.965Z",
+      "first_seen": null,
       "id": "266326330-45161881358",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134211-820lh-mp95w7xt7a4u61",
       "itemid": 45161881358,
-      "last_seen": 1786522549,
+      "last_seen": 1786588733,
       "liked": 0,
       "month_sold": 0,
       "name": "現貨🚚隔日到貨🚚 漸進多焦點老花眼鏡 遠中近三用免摘鏡 看書滑手機看電腦 輕量舒適 顯年輕圓框 男女通用 灰框透明框眼鏡",
       "price": 189,
       "rating": 0,
       "shopid": 266326330,
-      "sold": 47,
-      "sold_total": 47,
+      "sold": 48,
+      "sold_total": 48,
       "tags": [
-        "浏览"
+        "每日新发现"
       ],
-      "total_sold": 47,
+      "total_sold": 48,
       "url": "https://shopee.tw/product/266326330/45161881358",
       "week_sold": 0
     },
@@ -30626,24 +30637,25 @@
     },
     {
       "cats": [],
-      "first_seen": "2026-08-12T08:05:01.360Z",
+      "first_seen": null,
       "id": "2867750-54913981179",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820l7-mqn3mu5od3pre8",
       "itemid": 54913981179,
-      "last_seen": "2026-08-12T08:05:01.360Z",
+      "last_seen": null,
       "liked": 0,
       "month_sold": 0,
       "name": "【隔日到貨】日式茶筅 百本立竹茶筅 抹茶茶刷 日式抹茶打茶工具 點茶工具 天然竹材 純手工竹製無斷穗無毛刺 茶道專用茶刷",
       "rating": 0,
       "shopid": 2867750,
-      "sold": 62,
-      "sold_total": 62,
+      "sold": 63,
+      "sold_total": 63,
       "tags": [
         "每日新发现"
       ],
-      "total_sold": 62,
+      "total_sold": 63,
       "url": "https://shopee.tw/product/2867750/54913981179",
-      "week_sold": 0
+      "week_sold": 0,
+      "price": 126
     },
     {
       "cats": [],
@@ -31121,7 +31133,7 @@
       "id": "1480993454-51709354786",
       "img": "https://down-tw.img.susercontent.com/file/sg-11134201-820m8-mne5s1byn8co8d",
       "itemid": 51709354786,
-      "last_seen": 1786522549,
+      "last_seen": 1786588733,
       "liked": 0,
       "month_sold": 0,
       "name": "【台灣出貨】新款兒童戶外水杯 學生吸管杯 夏季運動大容量tritan食品級噴霧杯 兒童水杯 學生水壺 吸管水壺 冷水壺",
@@ -31131,7 +31143,7 @@
       "sold": 41,
       "sold_total": 41,
       "tags": [
-        "浏览"
+        "每日新发现"
       ],
       "total_sold": 41,
       "url": "https://shopee.tw/product/1480993454/51709354786",
@@ -31451,7 +31463,7 @@
       "id": "1022911487-23372372122",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820le-mprnv2yxc3ymac",
       "itemid": 23372372122,
-      "last_seen": 1786522599,
+      "last_seen": 1786588733,
       "liked": 0,
       "month_sold": 0,
       "name": "【台灣現貨】  鯊魚拖鞋 卡通造型可愛拖鞋女 居家室內防滑eva材質 情侶拖鞋 室內拖鞋 創意個性拖鞋男",
@@ -31891,7 +31903,7 @@
       "id": "577464529-42220224499",
       "img": "https://down-tw.img.susercontent.com/file/sg-11134201-820ni-mo0glwgr4xz42b",
       "itemid": 42220224499,
-      "last_seen": 1786522599,
+      "last_seen": 1786588733,
       "liked": 0,
       "month_sold": 0,
       "name": "【上新啦】赛博手把吸管保温杯 单手开盖 陶瓷保溫保冷杯 陶瓷冰壩杯1000ml 大容量车载水杯 运动水壶 赠杯刷杯貼",
@@ -33775,6 +33787,556 @@
       ],
       "total_sold": 6,
       "url": "https://shopee.tw/product/9836397/27627747087",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "1023267574-56103237606",
+      "img": "https://down-tw.img.susercontent.com/file/sg-11134201-81ztk-mid7pz9yn3ls33",
+      "itemid": 56103237606,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "夏季便攜運動水杯 高顏值隨手杯大容量男女學生女生專用款杯ins 漸變色運動杯 大容量水壺 直飲水杯1000ml手提繩設計",
+      "price": 147,
+      "rating": 0,
+      "shopid": 1023267574,
+      "sold": 239,
+      "sold_total": 239,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 239,
+      "url": "https://shopee.tw/product/1023267574/56103237606",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "12346-11836600105",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk5-m8fnzlivb6cn0a",
+      "itemid": 11836600105,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "【９９元就免運！藍白漸層熱銷色限時促銷】水壺 2000ml 1500ml 水壺 運動水壺 大容量水壺 健身水壺 彈蓋水壺",
+      "price": 154,
+      "rating": 0,
+      "shopid": 12346,
+      "sold": 1000,
+      "sold_total": 1000,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 1000,
+      "url": "https://shopee.tw/product/12346/11836600105",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "1283116410-54760158061",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820l9-mnzj7mguyrybcd",
+      "itemid": 54760158061,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "🔥加厚陶瓷款🔥陶瓷保溫瓶 陶瓷保溫杯 陶瓷冰霸杯 保溫杯 保溫瓶 陶瓷咖啡杯 陶瓷隨行杯 咖啡杯 水壺 水瓶 彈蓋保溫杯",
+      "price": 205,
+      "rating": 0,
+      "shopid": 1283116410,
+      "sold": 409,
+      "sold_total": 409,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 409,
+      "url": "https://shopee.tw/product/1283116410/54760158061",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "12914410-46815423752",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820l6-mq1o2qygjpj5f2",
+      "itemid": 46815423752,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "🚴 【宅野】冰霸保溫瓶 大容量｜長效保冰保溫 手提直飲兩用 騎行路跑隨行水壺）",
+      "price": 637,
+      "rating": 0,
+      "shopid": 12914410,
+      "sold": 0,
+      "sold_total": 0,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 0,
+      "url": "https://shopee.tw/product/12914410/46815423752",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "1443249372-51865340124",
+      "img": "https://down-tw.img.susercontent.com/file/sg-11134201-8258b-mrfjly2i72180f",
+      "itemid": 51865340124,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "台灣現貨🚚帶把手水杯茶漏保溫水杯 1000ml不鏽鋼保溫杯 高顏值學生男女保溫壺 保溫杯 大容量 簡約保溫杯",
+      "price": 185,
+      "rating": 0,
+      "shopid": 1443249372,
+      "sold": 2,
+      "sold_total": 2,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 2,
+      "url": "https://shopee.tw/product/1443249372/51865340124",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "1493569-43282281800",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820li-mq8iqfvghr7k50",
+      "itemid": 43282281800,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "台灣出貨 保冰杯🧊超長保溫🧊 保溫瓶 冰霸杯 冷熱兩用 大容量水壺 運動水壺 便捷手提水壺 直飲水壺 騎行水壺",
+      "price": 640,
+      "rating": 0,
+      "shopid": 1493569,
+      "sold": 0,
+      "sold_total": 0,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 0,
+      "url": "https://shopee.tw/product/1493569/43282281800",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "15865671-57410895688",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820lh-mr6zxtixyo78ae",
+      "itemid": 57410895688,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "隔日🚚 陶瓷保溫瓶 陶瓷保溫杯 陶瓷咖啡杯 陶瓷冰霸杯 水壺 保溫瓶 冰霸杯 陶瓷珍奶杯 保溫杯 珍奶杯 咖啡杯 陶瓷",
+      "price": 1,
+      "rating": 0,
+      "shopid": 15865671,
+      "sold": 150,
+      "sold_total": 150,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 150,
+      "url": "https://shopee.tw/product/15865671/57410895688",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "15865671-58104054901",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820li-mrlb7nu2r5s1a6",
+      "itemid": 58104054901,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "隔日🚚 陶瓷保溫杯 陶瓷冰霸杯 保溫杯 彈蓋保溫杯 保溫瓶 陶瓷咖啡杯 大容量保溫杯 陶瓷保溫瓶 咖啡杯 水壺 水瓶",
+      "price": 1,
+      "rating": 0,
+      "shopid": 15865671,
+      "sold": 1000,
+      "sold_total": 1000,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 1000,
+      "url": "https://shopee.tw/product/15865671/58104054901",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "1597138153-45263498903",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820lc-mqldx2tl9ngh14",
+      "itemid": 45263498903,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "【隔日到貨】太空棉涼感短褲素面短褲重磅純棉短褲寬鬆沙灘褲休閑五分褲運動短褲短褲抽繩籃球短褲男女純棉短褲棉質短褲韓版",
+      "price": 168,
+      "rating": 0,
+      "shopid": 1597138153,
+      "sold": 57,
+      "sold_total": 57,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 57,
+      "url": "https://shopee.tw/product/1597138153/45263498903",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "1605658571-56162617420",
+      "img": "https://down-tw.img.susercontent.com/file/sg-11134201-824ho-mps7bt1wynlt0c",
+      "itemid": 56162617420,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "特價 高顏值代餐杯 攪拌杯 自動攪拌杯 三代攪拌杯 奶昔杯 蛋白素搖搖杯 咖啡攪拌杯 電動搖搖杯咖啡杯 快速攪拌杯",
+      "price": 289,
+      "rating": 0,
+      "shopid": 1605658571,
+      "sold": 20,
+      "sold_total": 20,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 20,
+      "url": "https://shopee.tw/product/1605658571/56162617420",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "1622478893-42575673282",
+      "img": "https://down-tw.img.susercontent.com/file/sg-11134201-8257s-mg66himqtr0o60",
+      "itemid": 42575673282,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "隔日🚚  陶瓷保溫杯 陶瓷保溫瓶 手提冰霸杯 陶瓷冰霸杯1200ml 保溫杯 保溫瓶 咖啡杯 珍奶杯 保冰杯 冰壩杯",
+      "price": 1,
+      "rating": 0,
+      "shopid": 1622478893,
+      "sold": 699,
+      "sold_total": 699,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 699,
+      "url": "https://shopee.tw/product/1622478893/42575673282",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "1630146-57215047714",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820l7-mrjn9ja85u6c75",
+      "itemid": 57215047714,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "夏季降溫噴霧吸管水壺  750ML Tritan噴霧水壺 大容量水壶 安全材質吸管水杯 健身水壺 學習水壺 開學禮物",
+      "price": 366,
+      "rating": 0,
+      "shopid": 1630146,
+      "sold": 0,
+      "sold_total": 0,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 0,
+      "url": "https://shopee.tw/product/1630146/57215047714",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "164050610-43082521774",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820lf-mqkbld4zzo5ccb",
+      "itemid": 43082521774,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "【破損包賠】持久保溫 摺疊泡腳桶 泡腳袋 泡腳盆 水桶 泡腳桶 摺疊水桶 水袋 折疊泡腳 桶 折疊桶 泡腳桶加高 洗腳桶",
+      "price": 10,
+      "rating": 0,
+      "shopid": 164050610,
+      "sold": 14,
+      "sold_total": 14,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 14,
+      "url": "https://shopee.tw/product/164050610/43082521774",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "1886239-41601913855",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk5-ma3vdphdpidw8b",
+      "itemid": 41601913855,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "🇹🇼台灣出貨 不銹鋼雙飲保溫杯 手提保溫杯 冰壩杯 直飲吸管隨行杯 外帶杯 陶瓷咖啡杯 tritan保溫保冰 710ML",
+      "price": 188,
+      "rating": 0,
+      "shopid": 1886239,
+      "sold": 1000,
+      "sold_total": 1000,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 1000,
+      "url": "https://shopee.tw/product/1886239/41601913855",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "1912101-10736611538",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-7r98p-lzzzbfkj97e45e",
+      "itemid": 10736611538,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "【台灣現貨！2000ml 漸層水壺 限時特價】大容量水壺 運動水壺 健身水壺 吸管水壺 水壺 大水壺 彈蓋水壺",
+      "price": 135,
+      "rating": 0,
+      "shopid": 1912101,
+      "sold": 3000,
+      "sold_total": 3000,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 3000,
+      "url": "https://shopee.tw/product/1912101/10736611538",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "29375259-55763682495",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820l7-mqg144apkjda8d",
+      "itemid": 55763682495,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "【台灣24h出貨】防水套雨傘 雨傘防水套 防水套傘 摺疊雨傘 防水雨傘 環扣自動傘 自動雨傘 折疊雨傘 雨傘自動 雨傘",
+      "price": 239,
+      "rating": 0,
+      "shopid": 29375259,
+      "sold": 45,
+      "sold_total": 45,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 45,
+      "url": "https://shopee.tw/product/29375259/55763682495",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "3979153-44169142134",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-81ztk-mep8mtp0eznnbc",
+      "itemid": 44169142134,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "聆翔 WK300無線靜音鍵盤｜電腦鍵盤 keyboard 白色鍵盤 即插即用 注音倉頡鍵盤 辦公 108鍵 聆翔旗艦店",
+      "price": 375,
+      "rating": 0,
+      "shopid": 3979153,
+      "sold": 1000,
+      "sold_total": 1000,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 1000,
+      "url": "https://shopee.tw/product/3979153/44169142134",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "50662979-52906149364",
+      "img": "https://down-tw.img.susercontent.com/file/sg-11134301-82629-mk7wcynp21abc7",
+      "itemid": 52906149364,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "【蝦皮直營】X-PRO RGB燈光靜音鍵盤 旋鈕設計 電腦 微軟 Windows Mac USB 有線 注音 鍵盤",
+      "price": 326,
+      "rating": 0,
+      "shopid": 50662979,
+      "sold": 542,
+      "sold_total": 542,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 542,
+      "url": "https://shopee.tw/product/50662979/52906149364",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "588444617-48357820424",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820la-mliw2o1dbjf35a",
+      "itemid": 48357820424,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "台中現貨🔥熱銷中 限時下殺 電動攪拌杯 700ML 高效充分攪拌 高蛋白攪拌杯 奶昔攪拌杯 攪拌杯電動 蛋白杯 攪拌杯",
+      "price": 371,
+      "rating": 0,
+      "shopid": 588444617,
+      "sold": 222,
+      "sold_total": 222,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 222,
+      "url": "https://shopee.tw/product/588444617/48357820424",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "701092114-56257366094",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820l7-mqx95vm3f7r919",
+      "itemid": 56257366094,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "✨ 現貨❣隔日達✨限時最低價 陶瓷保冷杯 1200ML大容量  陶瓷內膽 雙飲杯 車載 水杯子 冰霸杯 保溫杯",
+      "price": 245,
+      "rating": 0,
+      "shopid": 701092114,
+      "sold": 495,
+      "sold_total": 495,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 495,
+      "url": "https://shopee.tw/product/701092114/56257366094",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "7668616-21492024203",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-7r98o-lkjmeexr0pq854",
+      "itemid": 21492024203,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "『24h發貨』 踩屎感拖鞋 拖鞋 室內拖鞋 居家拖鞋 踩屎感拖鞋男士夏季防臭室內家居靜音防滑居家用eva涼拖女士外穿",
+      "price": 129,
+      "rating": 0,
+      "shopid": 7668616,
+      "sold": 10,
+      "sold_total": 10,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 10,
+      "url": "https://shopee.tw/product/7668616/21492024203",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "7681799-53256891090",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820l8-mlinr9wjd0qr45",
+      "itemid": 53256891090,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "隔日達現貨 金屬無限翻轉方塊 EDC解壓魔方 金屬無限魔方 摺疊無限金屬合金方塊 百變減壓解壓神器 指尖磁力魔方玩具",
+      "price": 289,
+      "rating": 0,
+      "shopid": 7681799,
+      "sold": 33,
+      "sold_total": 33,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 33,
+      "url": "https://shopee.tw/product/7681799/53256891090",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "946684695-42003304218",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820l5-mpvv5g6cfyf51e",
+      "itemid": 42003304218,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "💗現貨隔日達💗冰霸杯 保溫杯 陶瓷冰霸杯 吸管杯 保冰杯 大容量吸管杯 陶瓷內膽 保溫杯 隨行杯 飲料杯",
+      "price": 345,
+      "rating": 0,
+      "shopid": 946684695,
+      "sold": 598,
+      "sold_total": 598,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 598,
+      "url": "https://shopee.tw/product/946684695/42003304218",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "946684695-53053773558",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820la-mooubjh5cohuf9",
+      "itemid": 53053773558,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "✨現貨隔日達✨冰霸杯 賽博杯 巨無霸保溫杯  304不鏽鋼內膽 保冰杯 車載杯 運動水杯 大容量保溫杯 吸管杯",
+      "price": 355,
+      "rating": 0,
+      "shopid": 946684695,
+      "sold": 411,
+      "sold_total": 411,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 411,
+      "url": "https://shopee.tw/product/946684695/53053773558",
+      "week_sold": 0
+    },
+    {
+      "cats": [],
+      "first_seen": 1786588733,
+      "id": "946684695-55209349717",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-820l9-moovraauadc169",
+      "itemid": 55209349717,
+      "last_seen": 1786588733,
+      "liked": 0,
+      "month_sold": 0,
+      "name": "⚡現貨隔日達⚡冰霸杯 1250ML巨無霸杯 奶茶杯 可吸珍珠 陶瓷內膽 保冰24H 一鍵開蓋 防漏設計 大容量隨行杯",
+      "price": 405,
+      "rating": 0,
+      "shopid": 946684695,
+      "sold": 221,
+      "sold_total": 221,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 221,
+      "url": "https://shopee.tw/product/946684695/55209349717",
       "week_sold": 0
     }
   ]
