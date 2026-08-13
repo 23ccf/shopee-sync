@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T10:02:38.243Z",
-  "captured_at": "2026-08-12T10:02:38.243Z",
-  "catalog_ts": 1786528958,
+  "generated_at": "2026-08-13T02:08:42.279Z",
+  "captured_at": "2026-08-13T02:08:42.279Z",
+  "catalog_ts": 1786586922,
   "source": "kjws",
   "total": 1057,
   "categories": [
@@ -26260,11 +26260,11 @@
     },
     {
       "cats": [],
-      "first_seen": "2026-08-12T08:02:13.238Z",
+      "first_seen": null,
       "id": "1022025870-50415193281",
-      "img": "sg-11134201-8257y-mrbg3q2gehhg59",
+      "img": "https://cf.shopee.tw/file/sg-11134201-8257y-mrbg3q2gehhg59",
       "itemid": 50415193281,
-      "last_seen": "2026-08-12T08:02:13.238Z",
+      "last_seen": null,
       "liked": 0,
       "month_sold": 0,
       "name": "【隔日達🔥免運】恩爾美 保溫杯 保溫瓶 316不鏽鋼 附背帶吸管 2000ML大容量 保溫保冰 保冰杯 保溫壺 泡茶壺",
@@ -26274,11 +26274,13 @@
       "sold": 0,
       "sold_total": 0,
       "tags": [
-        "店铺"
+        "商品详情"
       ],
       "total_sold": 0,
       "url": "https://shopee.tw/product/1022025870/50415193281",
-      "week_sold": 0
+      "week_sold": 0,
+      "loc": "苗栗縣竹南鎮",
+      "official": false
     },
     {
       "cats": [],
