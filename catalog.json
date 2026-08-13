@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T09:03:52.173Z",
-  "captured_at": "2026-08-13T09:03:52.173Z",
-  "catalog_ts": 1786611832,
+  "generated_at": "2026-08-13T09:05:04.362Z",
+  "captured_at": "2026-08-13T09:05:04.362Z",
+  "catalog_ts": 1786611904,
   "source": "kjws",
   "total": 1340,
   "categories": [
@@ -39374,6 +39374,29 @@
     },
     {
       "cats": [],
+      "first_seen": 1786611743,
+      "id": "14031690-24297676035",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-81ztl-mg7rrm1anuh79d",
+      "itemid": 24297676035,
+      "last_seen": 1786611743,
+      "liked": 0,
+      "month_sold": 83,
+      "month_sold_estimated": true,
+      "name": "【台灣現貨-速發🔥】大容量水杯 運動水壺 1000ml水杯 戶外水壺 登山水壺 耐熱水壺 隨行杯 健身水壺 透明水壺",
+      "price": 10,
+      "rating": 0,
+      "shopid": 14031690,
+      "sold": 83,
+      "sold_total": 1000,
+      "tags": [
+        "每日新发现"
+      ],
+      "total_sold": 1000,
+      "url": "https://shopee.tw/product/14031690/24297676035",
+      "week_sold": 19
+    },
+    {
+      "cats": [],
       "first_seen": 1786611734,
       "id": "50124363-49854981634",
       "img": "https://down-tw.img.susercontent.com/file/tw-11134207-81zth-mjpfa6rpe70k21",
@@ -39398,24 +39421,24 @@
     {
       "cats": [],
       "first_seen": 1786611743,
-      "id": "14031690-24297676035",
-      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-81ztl-mg7rrm1anuh79d",
-      "itemid": 24297676035,
+      "id": "664403753-42304416694",
+      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk0-may4mb8tdahkd4",
+      "itemid": 42304416694,
       "last_seen": 1786611743,
       "liked": 0,
-      "month_sold": 83,
+      "month_sold": 82,
       "month_sold_estimated": true,
-      "name": "【台灣現貨-速發🔥】大容量水杯 運動水壺 1000ml水杯 戶外水壺 登山水壺 耐熱水壺 隨行杯 健身水壺 透明水壺",
-      "price": 10,
+      "name": "精選好物🛒Tritan磁吸式杯蓋提環吸管杯850mL 飲料杯 珍珠奶茶杯 運動水壺BPA FREE（現貨～快速出貨）",
+      "price": 289,
       "rating": 0,
-      "shopid": 14031690,
-      "sold": 83,
-      "sold_total": 1000,
+      "shopid": 664403753,
+      "sold": 82,
+      "sold_total": 985,
       "tags": [
         "每日新发现"
       ],
-      "total_sold": 1000,
-      "url": "https://shopee.tw/product/14031690/24297676035",
+      "total_sold": 985,
+      "url": "https://shopee.tw/product/664403753/42304416694",
       "week_sold": 19
     },
     {
@@ -39509,29 +39532,6 @@
       "total_sold": 213,
       "url": "https://shopee.tw/product/627426868/42917610373",
       "week_sold": 4
-    },
-    {
-      "cats": [],
-      "first_seen": 1786611743,
-      "id": "664403753-42304416694",
-      "img": "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk0-may4mb8tdahkd4",
-      "itemid": 42304416694,
-      "last_seen": 1786611743,
-      "liked": 0,
-      "month_sold": 82,
-      "month_sold_estimated": true,
-      "name": "精選好物🛒Tritan磁吸式杯蓋提環吸管杯850mL 飲料杯 珍珠奶茶杯 運動水壺BPA FREE（現貨～快速出貨）",
-      "price": 289,
-      "rating": 0,
-      "shopid": 664403753,
-      "sold": 82,
-      "sold_total": 985,
-      "tags": [
-        "每日新发现"
-      ],
-      "total_sold": 985,
-      "url": "https://shopee.tw/product/664403753/42304416694",
-      "week_sold": 19
     }
   ]
 }
