@@ -1,36 +1,10 @@
 {
   "generated_at": "2026-08-14T02:20:13.000Z",
   "captured_at": "2026-08-14T02:20:13.000Z",
-  "catalog_ts": 1786674013,
+  "catalog_ts": 1786674023,
   "source": "shopee-recorder-extension",
-  "total": 1,
-  "categories": [
-    {
-      "name": "浏览",
-      "count": 1
-    }
-  ],
+  "total": 0,
+  "categories": [],
   "locations": [],
-  "items": [
-    {
-      "id": "436545193_19999999999",
-      "itemid": 19999999999,
-      "shopid": 436545193,
-      "name": "【同步检测】测试商品",
-      "price": 99.0,
-      "sold": 100,
-      "sold_total": 500,
-      "month_sold": 100,
-      "week_sold": 25,
-      "total_sold": 500,
-      "rating": 4.9,
-      "img": "https://cf.shopee.tw/file/tw-11134207-820l4-mr59nl14t8g412",
-      "url": "https://shopee.tw/product/436545193/19999999999",
-      "cats": [
-        "浏览"
-      ],
-      "first_seen": 1786674013,
-      "last_seen": 1786674013
-    }
-  ]
+  "items": []
 }
