@@ -1,8 +1,8 @@
 {
-  "sync_ts": 1786694497,
-  "catalog_ts": 1786694497,
-  "running": true,
-  "active": true,
-  "total_count": 1057,
-  "updated_at": "2026-08-14T08:01:37.000Z"
+  "sync_ts": 1786695245,
+  "catalog_ts": 1786695245,
+  "running": false,
+  "active": false,
+  "total_count": 0,
+  "updated_at": "2026-08-14T08:14:05.000Z"
 }
